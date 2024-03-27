@@ -27,6 +27,7 @@ const Hero = () => {
               <label htmlFor="property-type" className="sr-only">
                 Property Type
               </label>
+
               <select
                 id="property-type"
                 className="w-full px-4 py-3 rounded-lg bg-white text-gray-800 focus:outline-none focus:ring focus:ring-blue-500"
