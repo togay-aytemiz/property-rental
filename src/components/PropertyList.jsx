@@ -1,6 +1,5 @@
 import properties from "../../data/apartments.json";
 import PropertyCard from "./PropertyCard";
-import { Datepicker } from "flowbite-react";
 
 const PropertyList = () => {
   return (
